@@ -1,0 +1,2 @@
+# visualstudiocode_setting
+visualstudiocode keybinding memo
